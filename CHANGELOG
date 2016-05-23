@@ -1,9 +1,0 @@
-# CHANGELOG
-All notable changes will be documented in this file.
-[Semantic Versioning v2.0.0] (http://semver.org/)
-
-## [0.1.0] / [unreleased]
-### Added
-  - Foundation of a parsing library (LIBRAparse.h)
-  - Foundation of a loading library (LIBRAload.h)
-  - Foundation of a color library   (LIBRAcolor.h)
