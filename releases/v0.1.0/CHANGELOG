@@ -7,3 +7,4 @@ All notable changes will be documented in this file.
   - Foundation of a parsing library (LIBRAparse.h)
   - Foundation of a loading library (LIBRAload.h)
   - Foundation of a color library   (LIBRAcolor.h)
+
